@@ -1,0 +1,58 @@
+/* Global */
+
+body{
+    background-color: #ffffcc;
+    font-family: sans-serif;
+    color: #003300;
+    
+}
+
+a{
+    background-color: #ffffcc;
+    color: #003366;
+    text-decoration: none;
+}
+
+h2{
+    background-color: #ffffcc;
+    color: #003366;
+}
+
+h3{
+    background-color: #ffffcc;
+    color: #006600;
+}
+
+dd{
+    font-style: italic;
+    font-size: 0.90em;
+    line-height: 200%;
+}
+
+#header{
+    background-color: #ffffcc;
+    color: #48751a;
+}
+
+#footer{
+    font-size: 0.6em;
+    font-style: italic;
+}
+
+#wrapper{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.contact{
+    font-weight: bold;
+    font-size: 0.90em;
+    font-family: "Times New Roman";
+}
+
